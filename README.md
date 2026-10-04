@@ -1,12 +1,14 @@
-<!-- Title -->
+<!-- <img width="400" height="290" alt="CharPosterMelanie" src="https://github.com/user-attachments/assets/76608eae-93d5-485b-8d65-b67fdc7e27f8" /> 
+I'd love to have this as the title image, but I don't have permission.
+-->
+
 <p align="center">
-  <h2 align="center">  TeamBox™   </h2>
+<img width="300" height="250" alt="Rejuvenation Logo, The Core" src="https://github.com/user-attachments/assets/4f7a6b6b-5502-4094-a1dd-1bd671c89671" />
 </p>
-<br><br>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ### OVERVIEW
-This is a mod for Rejuvenation that allows the user to store their team configuration through a dedicated menu in an easy and quick way.
+TeamBox™ is a mod for Rejuvenation that allows the user to store their team configuration through a dedicated menu in an easy and quick way.
 
 You can store your team's entire loadout (that is, Ability, Nature, Item, EV, and Moves) in a box, and when desired, load it back up exactly as you left it, while your previous party will be sent to the PC.
 
