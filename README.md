@@ -23,10 +23,10 @@ Effectively, this means you can store a Doubles or Singles configuration, a Sun 
 
 3) Extract the file
 
-4) Place extracted 'Mods' folder inside the 'patch' folder, which can be found where the Rejuvenation executable file is
+4) Place extracted 'Mods' folder inside the 'patch' folder, located in the main folder (where the executable is)
 
-5) Turn autosaves on, this is a new release and may contain unanticipated bugs
+5) Turn autosaving on
 
 <br>
 
-![A video showcasing a player swapping two entire teams in seconds through TeamBox](https://github.com/qploop/TeamBox/blob/main/swap.gif)
+![GIF showing a player swapping between two teams in seconds by using TeamBox](https://github.com/qploop/TeamBox/blob/main/swap.gif)
