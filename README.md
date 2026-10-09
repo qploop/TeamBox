@@ -25,7 +25,7 @@ Effectively, this means you can store a Doubles or Singles configuration, a Sun 
 
 4) Place extracted 'Mods' folder inside the 'patch' folder, located in the same folder as the executable
 
-5) Turn autosaving on
+5) Turn backup saving on
 
 <br>
 
